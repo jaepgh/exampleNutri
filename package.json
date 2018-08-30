@@ -1,0 +1,28 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "\"Friend Finder\" is a compatibility-based application that using a survey determinate the user with the best overall match.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaepgh/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaepgh/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/jaepgh/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "firebase": "^5.3.1",
+    "html": "^1.0.0",
+    "nutrition-label-jquery-plugin": "^8.0.7",
+    "nutritionix": "^0.6.1",
+    "path": "^0.12.7"
+  }
+}
